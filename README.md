@@ -156,6 +156,50 @@ Incoming Ticket
 ```
 
 ---
+### 4. AI Techniques in Repetitive Tasks
+
+### Ticket Categorization & Prioritization
+- **Description:** AI can auto-classify tickets, suggest priority, and assign to the right team.
+- **Tools:** Jira Automation, ServiceNow, Zendesk
+- **Visual Guide:**
+```
+Incoming Ticket → Jira Automation / ServiceNow → Suggested Category & Priority → Assigned Team → Engineer Review → Final Output
+```
+- **Short Guide:**
+  1. Use built-in AI or rule-based automation to classify and prioritize tickets.
+  2. Review AI suggestions before assignment.
+  3. Continuously train automation rules based on historical tickets.
+
+### Log Analysis & Alert Management
+- **Description:** AI parses logs, summarizes anomalies, and highlights critical alerts.
+- **Tools:** Datadog, Splunk, ELK Stack, Prometheus + Grafana
+- **Visual Guide:**
+```
+Server / Application Logs → Datadog / Splunk → AI Anomaly Detection → Alert Summary → Engineer Review → Action Taken
+```
+- **Short Guide:**
+  1. Feed logs into monitoring tools with AI/ML capabilities.
+  2. Configure anomaly detection and alert thresholds.
+  3. Use AI-generated summaries to quickly identify root causes.
+
+### Knowledge & Response Automation
+- **Description:** AI drafts KB articles, SOP updates, and customer responses.
+- **Tools:** Confluence, Notion, BugBug, ChatGPT
+- **Visual Guide:**
+```
+Resolved Tickets / Logs → AI Drafting Tools (ChatGPT / BugBug / Confluence) → Draft KB / SOP / Customer Response → Engineer Review → Publish / Send
+```
+- **Short Guide:**
+  1. Collect source material (tickets, logs, previous KBs).
+  2. Use AI to draft consistent documentation or responses.
+  3. Engineer reviews and validates before publishing.
+
+**Tips:**
+- Always validate AI outputs.
+- Use role-based or context-aware prompts.
+- Keep sensitive data secure.
+
+
 
 ## Day 3 – Advanced AI Collaboration & Role based Analysis
 **Objective:** Apply advanced techniques and simulate real Ops/Support scenarios.
