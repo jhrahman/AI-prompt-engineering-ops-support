@@ -1,11 +1,11 @@
-# AI Prompt Engineering for Operations & Support Engineers
+# AI in Operations & Support Engineering
 
 **Duration:** 4 Days (1 Hour Each Day)
 
 ---
 
-## Day 1 – Foundations of AI Prompting for Ops/Support
-**Objective:** Build foundational understanding of AI and practice first-level prompting.
+## Day 1 – Foundations of AI for Ops/Support
+**Objective:** Equip Ops & Support Engineers with practical AI skills for monitoring, troubleshooting, ticket management, documentation, and future AI applications, using prompts as one of several tools.
 
 ### 1. AI Fundamentals (10 mins)
 - What is AI?
@@ -27,10 +27,10 @@
 ```
 
 ### 2. Introduction to LLMs (10 mins)
-- What is an LLM?
+- What is an LLM(Large Language Model?
 - Difference: AI vs ML vs LLMs
 - Examples: GPT, Claude, Gemini, Llama
-- Which one to use:
+- Which one to use when:
   - GPT → general-purpose
   - Claude → summarization
   - Gemini → Google ecosystem
@@ -43,7 +43,7 @@ AI (Broad Field)
           └── LLMs (Specialized in text & language)
 ```
 
-### 3. Sensitive Data Awareness & Safe Prompting (10 mins)
+### 3. Sensitive Data Awareness (10 mins)
 - Why it's important:
   - LLMs may temporarily store prompts
   - Confidential info could be exposed unintentionally
@@ -94,11 +94,22 @@ Sensitive Data → LLM Prompt → Risk of Exposure
 ```
 Customer Message → AI Prompt → Ticket Summary
 ```
+### 6. AI for Documentation & Knowledge Bases (5 mins)
+- Areas AI can help:
+  - Confluence or internal documentation: auto-summarize updates, create page drafts
+  - Support KB articles: convert tickets into knowledge articles, highlight common issues
+  - SOP updates: draft step-by-step procedures from incident notes
+  - Search & retrieval: generate FAQ-like answers from existing documentation
 
-### 6. Wrap-Up (5 mins)
+**Visual Idea:**
+```
+Tickets / Logs / Notes → AI → Draft KB Article → Review & Publish
+```
+### 7. Wrap-Up (5 mins)
 - AI is a helper, not a replacement
 - Good prompts = better outputs
 - Always practice safe data sharing
+- Help in maintaining documentation
 
 ---
 
@@ -110,10 +121,10 @@ Customer Message → AI Prompt → Ticket Summary
 Alert → Logs → AI Analysis → Suggested Cause → Jira Ticket → RCA Draft
 ```
 
-### 2. AI Prompting Patterns (15 mins)
-- Troubleshooting prompts: "analyze logs and suggest next steps"
-- RCA prompts: "list likely causes for X based on logs"
-- Ticket classification prompts
+### 2. AI Patterns Ops/Support tasks (15 mins)
+- Troubleshooting: "analyze logs and suggest next steps"
+- RCA: "list likely causes for X based on logs"
+- Ticket classification
 
 **Visual Idea (Mind Map):**
 ```
@@ -146,10 +157,10 @@ Incoming Ticket
 
 ---
 
-## Day 3 – Advanced Prompting & Collaboration with AI
-**Objective:** Apply advanced prompting techniques and simulate real Ops/Support scenarios.
+## Day 3 – Advanced AI Collaboration & Role based Analysis
+**Objective:** Apply advanced techniques and simulate real Ops/Support scenarios.
 
-### 1. Advanced Prompting Techniques (15 mins)
+### 1. Advanced Techniques (15 mins)
 - Role-based prompting: DevOps engineer vs Support agent
 - Chain prompting for step-by-step RCA
 - Verification & refinement of outputs
@@ -161,7 +172,7 @@ DevOps Engineer → Technical analysis
 Support Agent → Customer-friendly response
 ```
 
-### 2. End-to-End AI in Ops Workflow (40 mins)
+### 2. End-to-End AI in Ops/Support Workflow (40 mins)
 - Scenario 1: CPU spike alert → AI analyzes logs → Jira ticket drafted
 - Scenario 2: OTT stream downtime → AI drafts customer response
 - Scenario 3: RCA drafting using AI chain prompting
