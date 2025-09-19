@@ -27,7 +27,7 @@
 ```
 
 ### 2. Introduction to LLMs (10 mins)
-- What is an LLM(Large Language Model?
+- What is an LLM(Large Language Model)
 - Difference: AI vs ML vs LLMs
 - Examples: GPT, Claude, Gemini, Llama
 - Which one to use when:
