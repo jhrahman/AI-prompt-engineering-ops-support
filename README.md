@@ -10,9 +10,9 @@
 ### 1. AI Fundamentals (10 mins)
 - What is AI?
 - Types of AI:
-  - Narrow AI (ChatGPT, Alexa)
+  - Narrow AI (Chatbots, Alexa)
   - General AI (human-level thinking, future)
-  - Generative AI (text, images, code)
+  - Generative AI (ChatGPT, text, images, code)
 - AI in Ops/Support (summarization, triage, logs analysis, communication)
 
 **Visual Idea:**
