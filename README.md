@@ -11,8 +11,8 @@
 - What is AI?
 - Types of AI:
   - Narrow AI (Chatbots, Alexa)
-  - General AI (human-level thinking, future)
   - Generative AI (ChatGPT, text, images, code)
+  - General AI (human-level thinking, future)
 - AI in Ops/Support (summarization, triage, logs analysis, communication)
 
 **Visual Idea:**
