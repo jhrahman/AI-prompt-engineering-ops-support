@@ -201,7 +201,7 @@ Resolved Tickets / Logs → AI Drafting Tools (ChatGPT / BugBug / Confluence) �
 
 
 
-## Day 3 – Advanced AI Collaboration & Role based Analysis
+## Advanced AI Collaboration & Role based Analysis
 **Objective:** Apply advanced techniques and simulate real Ops/Support scenarios.
 
 ### 1. Advanced Techniques (15 mins)
@@ -242,7 +242,7 @@ AI Drafts Ticket → Engineer Finalizes → RCA with AI Support
 
 ---
 
-## Day 4 – The Future of AI in Operations & Support (5–10 Years Ahead)
+## Day 3 – The Future of AI in Operations & Support (5–10 Years Ahead)
 **Objective:** Inspire team to imagine AI-driven Ops & Support.
 
 ### 1. AI Evolution Overview (10 mins)
